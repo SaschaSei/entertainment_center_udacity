@@ -1,6 +1,7 @@
 # Entertainment Center
 This is a simple program that shows some of my favourite films and links to
-their corresponding trailers.
+their corresponding trailers. The code was mostly achieved during the Python
+starter course on Udacity.
 
 
 ## Requirements
@@ -12,5 +13,5 @@ Python installed. You can dowload this verson of Python
 ## How To Run The Program
 Simply double click the **entertainment_center.py** file.
 
-## Contributors
+## Contributions
 This program uses fresh_tomatoes.py originally from Udacity.
