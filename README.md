@@ -10,8 +10,10 @@ This was coded in **Python 2.7.13** so you have to have at this version of
 Python installed. You can dowload this verson of Python
 [here](https://www.python.org/downloads/).
 
-## How To Run The Program
-Simply double click the **entertainment_center.py** file.
+## How To Download And Run The Program
+* download the latest repository from [here](https://github.com/SaschaSei/entertainment_center_udacity/archive/master.zip)
+* extract the zip file into a folder
+* run the **entertainment_center.py**
 
 ## Contributions
 This program uses fresh_tomatoes.py originally from Udacity.
